@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivy Kanyiri.
 - 👀 I’m interested in Web Development and Product Design.
-- 🌱 I’m currently learning Javascript, React and Node JS.
+- 🌱 I’m currently learning Javascript, React and Node.
 - 💞️ I’m looking to collaborate on Web App Development and Product Design Projects.
 - 📫 To reach me, you can send an email to kanyirie@gmail.com
 
